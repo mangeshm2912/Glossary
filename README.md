@@ -11,4 +11,4 @@ year, shares a similar need for digitization. Both editions represent
 significant regional media assets, contributing to the preservation and
 availability of important historical and contemporary data in the respective
 languages.
-Extracted the gloassary from the Digital version.
+Extracted the glossary from the Digital version.
