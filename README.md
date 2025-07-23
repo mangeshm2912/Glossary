@@ -11,6 +11,4 @@ year, shares a similar need for digitization. Both editions represent
 significant regional media assets, contributing to the preservation and
 availability of important historical and contemporary data in the respective
 languages.
-The project will ensure the preservation of valuable historical content in a
-long-lasting and easily accessible digital format, which is crucial given the
-physical deterioration risks of microfilms over time.
+Extracted the gloassary from the Digital version.
